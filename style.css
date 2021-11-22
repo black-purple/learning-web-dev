@@ -66,7 +66,7 @@ input:focus {
     color: black;
 }
 
-button {
+.submit-button {
     margin-top: 40px;
     margin-bottom: 30px;
     border-radius: 5px;
